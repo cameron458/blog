@@ -1848,7 +1848,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e40b86;
+  background: #3e03dd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2679,4 +2679,7 @@ img:hover {
 }
 .site-author-name {
   display: none;
+}
+img.img-topic {
+  width: 100%;
 }
